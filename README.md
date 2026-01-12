@@ -4,7 +4,7 @@
 ［ nyahh ］
 ────────────────────────
 fullstack ai engineer    
-linux enjoyer  
+fullstack intern @ Stealth
 
 ［ tech stack ］
 ────────────────────────
