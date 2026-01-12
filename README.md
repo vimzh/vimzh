@@ -4,7 +4,7 @@
 ［ nyahh ］
 ────────────────────────
 fullstack ai engineer    
-fullstack intern @ Stealth
+software intern @ Stealth
 
 ［ tech stack ］
 ────────────────────────
