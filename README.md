@@ -3,7 +3,7 @@
 
 ［ nyahh ］
 ────────────────────────
-Fullstack/ai engineer    
+fullstack ai engineer    
 linux enjoyer  
 
 ［ tech stack ］
@@ -13,8 +13,8 @@ express · node · linux · neovim · zsh
 
 ［ links ］
 ────────────────────────
-<a href="https://codeforces.com/profile/nyahh">codeforces: nyahh</a>
-<a href="https://leetcode.com/u/kymibuilds/">leetcode: kymibuilds</a>
+<a href="https://codeforces.com/profile/nyahh">codeforces</a>
+<a href="https://leetcode.com/u/kymibuilds/">leetcode</a>
 
 minimalism over noise  
 clarity over clutter
