@@ -8,8 +8,8 @@ intern @Stealth
 
 ［ tech stack ］
 ────────────────────────
-react · c++ · python · Databases  
-express · node · linux · neovim · zsh
+react · nodejs · python · databases  
+express · c++ · linux · neovim · zsh
 
 ［ links ］
 ────────────────────────
