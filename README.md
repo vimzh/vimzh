@@ -13,6 +13,6 @@ express · c++ · linux · neovim · zsh
 
 ［ links ］
 ────────────────────────
-<a href="https://codeforces.com/profile/tzyx">codeforces</a> · <a href="https://leetcode.com/u/kymibuilds/">leetcode</a>
+<a href="https://codeforces.com/profile/tzyx">codeforces</a> · <a href="https://leetcode.com/u/kymibuilds/">leetcode</a> · <a href="mailto:kymibuilds@gmail.com">kymibuilds@gmail.com</a>
   </pre>
 </div>
