@@ -1,7 +1,7 @@
 <div align="center">
   <pre style="font-family: 'IBM Plex Mono', monospace; text-align: center; line-height: 1.8; font-size: 14px; color: #888;">
 
-［ nyahh ］
+［ vimzh ］
 ────────────────────────
 fullstack ai engineer    
 intern @Stealth
