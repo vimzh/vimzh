@@ -8,7 +8,7 @@ ai engineer
 ［ tech stack ］
 ────────────────────────
 react · nodejs · python · databases  
-express · c++ · linux · neovim · zsh
+ai · c++ · linux · neovim · zsh
 
 ［ links ］
 ────────────────────────
