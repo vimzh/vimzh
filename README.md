@@ -3,8 +3,7 @@
 
 ［ vimzh ］
 ────────────────────────
-fullstack ai engineer    
-intern @Stealth
+ai engineer
 
 ［ tech stack ］
 ────────────────────────
