@@ -12,6 +12,6 @@ express · c++ · linux · neovim · zsh
 
 ［ links ］
 ────────────────────────
-<a href="https://codeforces.com/profile/tzyx">codeforces</a> · <a href="https://leetcode.com/u/kymibuilds/">leetcode</a> · <a href="mailto:vimzh.dev@gmail.com">vimzh.dev@gmail.com</a> · <a href="https://vimzh.dev">portfolio</a>
+<a href="https://codeforces.com/profile/tzyx">codeforces</a> · <a href="https://leetcode.com/u/vimzh/">leetcode</a> · <a href="mailto:vimzh.dev@gmail.com">vimzh.dev@gmail.com</a> · <a href="https://vimzh.dev">portfolio</a>
   </pre>
 </div>
