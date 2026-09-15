@@ -12,7 +12,7 @@ ai · c++ · opencv
 
 ［ recent wins ］
 ────────────────────────
-1st @micro1 · 1st @openai · 1nd @microsoft
+1st @micro1 · 1st @openai · 1st @microsoft
 
 ［ links ］
 ────────────────────────
